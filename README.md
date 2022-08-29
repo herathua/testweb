@@ -126,7 +126,7 @@
 </head>
 
 <body>
-    <div class="topnav" id="home">
+    <div class="topnav">
         <a href="#home">Home</a>
         <a href="#About">About</a>
         <a href="#Qulity">Qulity</a>
@@ -134,14 +134,14 @@
     </div>
 
 
-    <div class="row" id="About">
+    <div class="row">
         <div class="column" style="background-color:#0BCEAF ;height : 400px" ;><img src="about.png" alt="about" width="350" height="100%"></div>
         <div class="column" style="background-color:#0BCEAF;color:white; padding-top :7%;height : 400px ;font-size:400%" ;>I'm<br>AVISHKA
             <br> HERATH</div>
 
     </div>
 
-    <div class="row " id="Qulity">
+    <div class="row ">
         <div class="column2 " style="background-color:white; ">Graphic Designer & Web Developer</div>
 
 
@@ -171,7 +171,7 @@
 
 
     </div>
-    <div class="row " id="Contact">
+    <div class="row ">
         <div class="column " style="background-color:rgb(255, 254, 254); ">
             <div class="TOPICLEFT" style="font-size: 30px;color: #000;">
                 My Education<br><br><br>
